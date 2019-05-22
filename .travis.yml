@@ -65,6 +65,8 @@ jobs:
       node_js: "0.10"
       os: linux
 
+os: linux-ppc64le
+
 addons:
   apt:
     sources:
